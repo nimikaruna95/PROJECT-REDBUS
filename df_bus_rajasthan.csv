@@ -1,0 +1,640 @@
+Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_available,Star_rating,Route_links,Route_names
+RSRTC - 189473,NON AC Seater / Sleeper 2+1,21:00,01:30,04h 30m,INR 302,37 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+RSRTC - 192299,Super Luxury Volvo AC Seater Pushback 2+2,23:00,02:45,03h 45m,INR 458,37 Seats available,"3.7
+12",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+RSRTC - 189583,NON AC Seater / Sleeper 2+1,23:59,03:45,03h 46m,INR 302,37 Seats available,"4.3
+14",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Bluecity Bus,Bharat Benz A/C Sleeper (2+1),19:25,23:55,04h 30m,INR 680,3 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jain travels regd,NON AC Seater/ Sleeper (2+1),19:25,23:36,04h 11m,INR 330,13 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Gajraj Travels,A/C Sleeper (2+1),19:30,23:59,04h 29m,INR 700,7 Seats available,4.5,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+M R Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),19:30,23:50,04h 20m,INR 1428,1 Seat available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jain travels regd,NON AC Seater / Sleeper 2+1,19:40,23:50,04h 10m,INR 330,32 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jain travels regd,AC Sleeper (2+1),20:00,00:30,04h 30m,INR 580,2 Seats available,"3.8
+5",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+M R Travels,A/C Seater / Sleeper (2+1),22:00,02:15,04h 15m,INR 510,7 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Gajraj Travels,A/C Sleeper (2+1),22:00,03:10,05h 10m,INR 650,34 Seats available,4.5,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Tiger Travels,NON AC Seater / Sleeper 2+1,22:00,02:45,04h 45m,INR 400,36 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels,A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,INR 500,10 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Shre Ganesh Travels,A/C Seater / Sleeper (2+1),22:45,03:15,04h 30m,500,16 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:00,03:00,05h 00m,INR 400,48 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+FlixBus,VE A/C Sleeper (2+1),22:00,02:20,04h 20m,INR 156.25,8 Seats available,"4.5
+22",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),22:26,03:11,04h 45m,INR 700,33 Seats available,3.4,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jain travels regd,AC Sleeper (2+1),22:30,02:35,04h 05m,INR 650,36 Seats available,"3.3
+4",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),22:30,02:40,04h 10m,INR 400,24 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Swagat Travels,A/C Seater / Sleeper (2+1),22:42,02:50,04h 08m,463,41 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+M R Travels,A/C Seater / Sleeper (2+1),22:45,02:25,03h 40m,INR 510,13 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels,A/C Seater / Sleeper (2+1),23:00,03:30,04h 30m,INR 410,12 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Tiger Travels,A/C Seater / Sleeper (2+1),23:15,03:45,04h 30m,INR 500,40 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,04:15,04h 16m,700,34 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Bhagwati Travels and Tours,A/C Seater/Sleeper (2+1),23:30,04:00,04h 30m,INR 600,6 Seats available,3.1,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels,A/C Sleeper (2+1),23:39,04:30,04h 51m,INR 648,4 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels And Cargo,A/C Sleeper (2+1),23:40,04:00,04h 20m,INR 650,14 Seats available,"4.3
+5",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+RR Travels,A/C Seater / Sleeper (2+1),19:25,01:15,05h 50m,INR 350,41 Seats available,2.1,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Salasar vaishnav travels,Non A/C Seater / Sleeper (2+1),21:05,01:35,04h 30m,INR 450,40 Seats available,2.2,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:16,02:16,05h 00m,555,29 Seats available,2.0,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),21:45,03:45,06h 00m,INR 400,31 Seats available,"2.0
+4",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Pooja Paraswnath Travels,A/C Seater / Sleeper (2+1),22:00,03:34,05h 34m,INR 500,32 Seats available,2.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Laxmi traveller,A/C Seater / Sleeper (2+1),22:00,02:41,04h 41m,INR 500,40 Seats available,2.2,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Gorsiya Travels,A/C Seater / Sleeper (2+1),23:40,04:15,04h 35m,555,38 Seats available,"2.0
+6",https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+bhaiya travels,A/C Sleeper (2+1),19:30,00:15,04h 45m,INR 2380.95,30 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Chouhan travels and Cargo,A/C Seater / Sleeper (2+1),22:35,03:20,04h 45m,INR 761.9,32 Seats available,3.4,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+Shree Ganesh Travels,A/C Sleeper (2+1),23:55,04:30,04h 35m,INR 800,25 Seats available,3.5,https://www.redbus.in/bus-tickets/jodhpur-to-ajmer,Jodhpur to Ajmer
+RSRTC - 160785,Super Luxury Volvo AC Seater Pushback 2+2,20:30,23:45,03h 15m,INR 424,3 Seats available,"2.8
+11",https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 190584,Express Non AC Seater 2+3,20:50,01:10,04h 20m,INR 211,42 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 172923,Express Non AC Seater 2+3,21:15,01:30,04h 15m,INR 211,42 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 190951,Express Non AC Seater 2+3,21:20,01:30,04h 10m,INR 211,42 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 163969,Express Non AC Seater 2+3,22:30,02:15,03h 45m,INR 211,42 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 195766,Express Non AC Seater 2+3,22:45,03:00,04h 15m,INR 211,42 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 176394,Super Luxury Volvo AC Seater Pushback 2+2,22:45,02:15,03h 30m,INR 424,20 Seats available,"3.5
+7",https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 183580,Semi Deluxe Non AC Seater 2+2,23:35,03:15,03h 40m,INR 230,35 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 192277,Semi Deluxe Non AC Seater 2+2,23:55,04:00,04h 05m,INR 230,35 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,19:30,23:00,03h 30m,INR 350,3 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:20,23:59,02h 39m,INR 500,12 Seats available,"3.9
+4",https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,NON AC Seater/ Sleeper (2+1),21:45,01:15,03h 30m,INR 300,20 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:55,01:45,02h 50m,INR 350,40 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Sagwan Travels,A/C Seater / Sleeper (2+1),23:30,02:43,03h 13m,450,37 Seats available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Dashmesh Travels,A/C Seater / Sleeper (2+1),23:30,03:00,03h 30m,555,28 Seats available,3.6,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Mahaveer Travel Company,A/C Seater / Sleeper (2+1),23:45,03:30,03h 45m,INR 600,36 Seats available,3.1,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+AMIT TRAVELS REGD.,NON A/C Sleeper (2+1),20:15,00:40,04h 25m,INR 600,36 Seats available,2.5,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Ashok Travels Ajmer,Non A/C Seater / Sleeper (2+1),20:30,23:59,03h 29m,380,42 Seats available,1.6,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Shree Mahaveer Nakoda Travels,NON A/C Sleeper (2+2),20:40,01:15,04h 35m,INR 394,38 Seats available,2.3,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+RR Travels,A/C Seater / Sleeper (2+1),21:20,00:55,03h 35m,INR 500,41 Seats available,2.1,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Om Travels,NON AC Seater / Sleeper 2+1,22:10,01:45,03h 35m,INR 450,33 Seats available,2.6,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+NTC Travels,A/C Seater / Sleeper (2+1),23:36,03:06,03h 30m,540,36 Seats available,2.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Ajay Raj Travel Agency,A/C Seater / Sleeper (2+1),23:45,03:15,03h 30m,415,26 Seats available,2.3,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,NON A/C Sleeper (2+1),20:10,23:10,03h 00m,INR 1400,30 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+bhaiya travels,NON A/C Sleeper (2+1),21:10,00:40,03h 30m,INR 1000,4 Seats available,3.3,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain Travels Regd Udaipur,A/C Seater / Sleeper (2+1),21:15,00:25,03h 10m,INR 900,40 Seats available,3.1,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Pandit Travels,NON AC Seater / Sleeper 2+1,21:45,01:15,03h 30m,INR 1500,1 Seat available,4.0,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Nandu Travels,NON A/C Sleeper (2+1),22:04,02:03,03h 59m,INR 900,18 Seats available,3.6,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Rishabh travels,Bharat Benz A/C Sleeper (2+1),22:15,01:25,03h 10m,1350,1 Seat available,3.7,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+V k jain travels,A/C Seater / Sleeper (2+1),22:20,02:20,04h 00m,INR 800,38 Seats available,3.0,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,NON AC Seater/ Sleeper (2+1),22:21,01:57,03h 36m,INR 700,6 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),22:30,01:40,03h 10m,INR 1200,14 Seats available,3.1,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Shre Ganesh Travels,A/C Seater / Sleeper (2+1),22:30,02:00,03h 30m,800,38 Seats available,3.2,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+NS Travels,A/C Sleeper (2+1),22:50,01:30,02h 40m,INR 1200,36 Seats available,3.5,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+M R Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:55,02:00,03h 05m,INR 1428,3 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,AC Sleeper (2+1),23:00,02:15,03h 15m,INR 1200,36 Seats available,3.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Gajraj Travels,A/C Sleeper (2+1),23:00,02:00,03h 00m,INR 700,4 Seats available,4.5,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+bhaiya travels,A/C Sleeper (2+1),23:15,02:20,03h 05m,INR 2380.95,30 Seats available,3.3,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+New marudhar and rajswer travelsp,NON AC Seater / Sleeper 2+1,23:45,04:32,04h 47m,900,43 Seats available,4.8,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+NS Travels,A/C Sleeper (2+1),23:50,02:40,02h 50m,1350,32 Seats available,3.5,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Suraj Travel And Cargo Services,Bharat Benz A/C Seater /Sleeper (2+1),23:55,02:45,02h 50m,INR 1333.33,25 Seats available,3.3,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jay Dwarkadhish Tours and Cargo,NON AC Seater / Sleeper 2+1,20:45,00:00,03h 15m,INR 3000,34 Seats available,New,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Ankit Travels,A/C Seater / Sleeper (2+1),22:10,01:40,03h 30m,INR 999,38 Seats available, ,https://www.redbus.in/bus-tickets/beawer-to-jaipur,Beawar (Rajasthan) to Jaipur (Rajasthan)
+Jain travels regd,A/C Seater / Sleeper (2+1),22:15,04:30,06h 15m,INR 460,26 Seats available,"4.3
+253",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Raj Travel,A/C Sleeper (2+1),22:30,05:30,07h 00m,INR 550,15 Seats available,"4.2
+146",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Kalpana Travels,NON AC Seater / Sleeper 2+1,22:00,04:54,06h 54m,INR 300,11 Seats available,"4.0
+120",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Gajraj Travels,A/C Sleeper (2+1),22:30,05:00,06h 30m,INR 550,18 Seats available,"4.2
+15",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Jakhar Travels,A/C Seater / Sleeper (2+1),22:00,04:30,06h 30m,INR 457,9 Seats available,"4.0
+222",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:00,04:00,06h 00m,INR 350,32 Seats available,"3.5
+72",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:15,04:30,06h 15m,INR 360,24 Seats available,"3.2
+25",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Kamlesh Travels,A/C Seater / Sleeper (2+1),20:30,02:45,06h 15m,INR 500,31 Seats available,3.5,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Chandra Travels (Apex Chandra Pvt Ltd),NON AC Seater / Sleeper 2+1,22:30,04:30,06h 00m,INR 350,17 Seats available,"3.4
+4",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Ashok Travels,Non A/C Seater / Sleeper (2+1),23:15,05:30,06h 15m,675,20 Seats available,3.4,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Rishabh Travels Milan,A/C Seater / Sleeper (2+1),20:25,02:15,05h 50m,INR 650,9 Seats available,"3.3
+15",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Shrinath travel agency,AC Sleeper (2+1),21:15,03:30,06h 15m,INR 700,5 Seats available,"3.2
+12",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Ravi Travels,Non A/C Seater / Sleeper (2+1),23:15,06:00,06h 45m,INR 400,28 Seats available,"2.5
+17",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Lake City Travels,NON AC Seater / Sleeper 2+1,22:45,05:20,06h 35m,INR 350,25 Seats available,"1.3
+5",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Jain travels regd,NON AC Seater / Sleeper 2+1,23:15,06:30,07h 15m,INR 350,22 Seats available,"2.6
+13",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+Ravi Travels,Non A/C Seater / Sleeper (2+1),21:30,04:15,06h 45m,INR 400,19 Seats available,2.5,https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+M R Travels,NON A/C Seater/ Sleeper (2+1),23:30,06:00,06h 30m,INR 360,6 Seats available,"2.6
+39",https://www.redbus.in/bus-tickets/udaipur-to-jodhpur,Udaipur to Jodhpur
+RSRTC - 190961,NON AC Seater / Sleeper 2+1,20:40,04:40,08h 00m,INR 448,9 Seats available,"4.4
+13",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+RSRTC - 163517,Express Non AC Seater 2+3,21:05,05:00,07h 55m,INR 356,34 Seats available,3.4,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+RSRTC - 178948,Super Luxury Volvo AC Seater Pushback 2+2,22:31,04:45,06h 14m,INR 740,13 Seats available,"4.2
+45",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+RSRTC - 170972,Super Luxury Volvo AC Seater Pushback 2+2,23:59,06:15,06h 16m,INR 740,10 Seats available,"4.4
+43",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+M R Travels,A/C Seater / Sleeper (2+1),23:35,06:10,06h 35m,INR 918,10 Seats available,"4.2
+204",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jain travels regd,A/C Seater / Sleeper (2+1),22:05,05:05,07h 00m,INR 450,3 Seats available,"4.2
+471",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+M R Travels,A/C Seater / Sleeper (2+1),22:15,05:30,07h 15m,INR 510,1 Seat available,"4.3
+338",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jain travels regd,A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,INR 450,1 Seat available,"4.1
+249",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Shree Paras Travels,NON AC Seater / Sleeper 2+1,21:00,05:30,08h 30m,379,10 Seats available,"3.7
+33",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jain travels regd,AC Sleeper (2+1),21:45,05:00,07h 15m,INR 571,6 Seats available,"3.8
+85",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Gayatri Travels,NON AC Seater / Sleeper 2+1,22:00,05:30,07h 30m,360,22 Seats available,"3.8
+23",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jakhar Travels And Cargo,A/C Seater / Sleeper (2+1),21:00,03:40,06h 40m,INR 500,3 Seats available,"3.3
+19",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+R.S.Sodha Travels,A/C Seater / Sleeper (2+1),21:50,03:10,05h 20m,INR 700,10 Seats available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:45,02:00,06h 15m,1388,1 Seat available,"3.0
+7",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jakhar Travels,A/C Seater / Sleeper (2+1),21:00,04:00,07h 00m,INR 1100,2 Seats available,"3.6
+52",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Chouhan travels and Cargo,A/C Seater / Sleeper (2+1),20:20,03:30,07h 10m,INR 700,11 Seats available,3.4,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jain Shiv Shankar Travels,NON A/C Seater/ Sleeper (2+1),20:40,03:50,07h 10m,INR 400,12 Seats available,"1.7
+8",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Geetanjali Travels,NON AC Seater / Sleeper 2+1,23:00,06:05,07h 05m,INR 400,27 Seats available,"2.1
+14",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Jakhar Travels And Cargo,A/C Seater / Sleeper (2+1),21:00,03:55,06h 55m,INR 700,10 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+BG Travels,A/C Seater / Sleeper (2+1),21:30,05:25,07h 55m,925,6 Seats available,"1.1
+8",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Kalpana Travels Pvt. Ltd.,A/C Seater / Sleeper (2+1),20:15,03:00,06h 45m,INR 600,16 Seats available,"2.4
+6",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Swagat Travels,A/C Seater / Sleeper (2+1),20:00,03:50,07h 50m,648,21 Seats available,"2.6
+11",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05:45,06h 15m,600,3 Seats available,"2.3
+17",https://www.redbus.in/bus-tickets/jaipur-to-jodhpur,Jaipur (Rajasthan) to Jodhpur
+RSRTC - 168785,Express Non AC Seater 2+3,21:00,23:15,02h 15m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 188344,Express Non AC Seater 2+3,21:00,23:00,02h 00m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 177523,Express Non AC Seater 2+3,21:10,23:15,02h 05m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 171167,Express Non AC Seater 2+3,21:20,23:00,01h 40m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 168794,Express Non AC Seater 2+3,21:50,00:15,02h 25m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 195158,Express Non AC Seater 2+3,22:15,23:59,01h 44m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 178042,Express Non AC Seater 2+3,23:40,11:59,12h 19m,INR 129,42 Seats available,4.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:30,22:30,03h 00m,270,40 Seats available,3.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Rishabh travels,AC Sleeper (2+1),20:04,23:31,03h 27m,370,16 Seats available,3.7,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Dashmesh Travels,A/C Seater / Sleeper (2+1),21:00,23:00,02h 00m,370,30 Seats available,3.6,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Vijay Travels Kota,NON AC Seater / Sleeper 2+1,20:00,22:15,02h 15m,INR 250,32 Seats available,2.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Ajay Raj Travel Agency,A/C Seater / Sleeper (2+1),20:00,23:00,03h 00m,369,20 Seats available,2.3,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Sagwan Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:00,22:30,02h 30m,270,38 Seats available,2.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Ajay Raj Travel Agency,A/C Seater / Sleeper (2+1),20:10,22:25,02h 15m,278,42 Seats available,2.3,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Mahadev Travels Pilani,A/C Seater / Sleeper (2+1),21:15,23:25,02h 10m,INR 300,32 Seats available,2.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Ajay Raj Travel Agency,Bharat Benz A/C Seater /Sleeper (2+1),21:15,23:05,01h 50m,278,36 Seats available,2.3,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),19:30,22:30,03h 00m,449,33 Seats available,3.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+New Babu Travels,A/C Seater/Sleeper (2+1),19:45,23:00,03h 15m,INR 523.81,15 Seats available,3.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Jai Shrinath Ji Ki Travels,Non A/C Seater / Sleeper (2+1),20:00,22:45,02h 45m,INR 450,36 Seats available,3.9,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+SHEKHAR TRAVELS,A/C Sleeper (2+1),20:10,23:30,03h 20m,INR 900,15 Seats available,3.1,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+THE REINDEER BUS,Volvo 9600 A/C Sleeper (2+1),20:15,22:10,01h 55m,INR 700,33 Seats available,4.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Ankit Travels,A/C Seater / Sleeper (2+1),20:20,22:50,02h 30m,719,36 Seats available,3.7,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),20:29,22:59,02h 30m,INR 600,20 Seats available,3.1,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Rathore Travels Madho,NON AC Seater / Sleeper 2+1,20:30,22:30,02h 00m,INR 500,43 Seats available,3.2,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Neeraj travels,A/C Seater / Sleeper (2+1),20:40,23:20,02h 40m,405,34 Seats available,3.4,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Maharaja Travels,AC Sleeper (2+1),20:45,22:55,02h 10m,INR 524,30 Seats available,3.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),20:45,23:30,02h 45m,INR 500,40 Seats available,3.9,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Devraj Travels,A/C Seater / Sleeper (2+1),21:15,23:15,02h 00m,INR 4999,38 Seats available,3.4,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Neelam Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,23:00,01h 45m,INR 400,14 Seats available,3.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+SKYNET TRAVELS AND CARGO,A/C Sleeper (2+1),21:20,23:05,01h 45m,INR 810,34 Seats available,4.1,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:31,23:57,01h 26m,INR 799,33 Seats available,3.4,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Neelam Travels,A/C Seater / Sleeper (2+1),23:00,00:30,01h 30m,INR 500,42 Seats available,3.5,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Sagwan Travels,A/C Seater / Sleeper (2+1),19:30,21:55,02h 25m,450,9 Seats available,2.0,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Tamanna Travels,AC Sleeper (2+1),20:00,23:00,03h 00m,INR 1237.14,30 Seats available,2.9,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Raj travels Jhunjhunu,A/C Seater / Sleeper (2+1),20:15,22:45,02h 30m,569,37 Seats available,2.8,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Raj travels Jhunjhunu,A/C Seater / Sleeper (2+1),21:00,23:15,02h 15m,380,14 Seats available,2.8,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+Supreme Zamindara Travels,NON AC Seater / Sleeper 2+1,21:15,23:15,02h 00m,INR 850,38 Seats available,2.3,https://www.redbus.in/bus-tickets/sikar-to-jaipur,Sikar to Jaipur (Rajasthan)
+RSRTC - 197510,Super Luxury Volvo AC Seater Pushback 2+2,21:30,04:00,06h 30m,INR 570,8 Seats available,"4.7
+10",https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Aligarh (uttar pradesh) to Jaipur (Rajasthan)
+RSRTC - 195691,Semi Deluxe Non AC Seater 2+2,22:01,04:15,06h 14m,INR 411,6 Seats available,"4.6
+5",https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Aligarh (uttar pradesh) to Jaipur (Rajasthan)
+UPSRTC - ALI0024,Ordinary Non AC Seater 2+3,21:00,05:00,08h 00m,INR 397,51 Seats available,"3.1
+23",https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Aligarh (uttar pradesh) to Jaipur (Rajasthan)
+Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,07:00,07h 05m,INR 599,1 Seat available,"2.7
+75",https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-jaipur,Aligarh (uttar pradesh) to Jaipur (Rajasthan)
+RSRTC - 189240,NON AC Seater / Sleeper 2+1,21:00,02:10,05h 10m,INR 341,13 Seats available,"3.6
+25",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 194692,Express Non AC Seater 2+3,23:59,05:30,05h 31m,INR 265,35 Seats available,3.9,https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),00:30,06:00,05h 30m,INR 500,7 Seats available,"4.2
+147",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+S.Nath Travels,A/C Seater / Sleeper (2+1),22:15,04:45,06h 30m,INR 333,18 Seats available,"2.8
+50",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),20:35,02:00,05h 25m,INR 400,17 Seats available,"2.2
+35",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Govinda Ganesh Travels (Baran),NON A/C Seater/ Sleeper (2+1),23:30,05:30,06h 00m,INR 300,25 Seats available,"2.7
+8",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Mahadev Travels Pilani,A/C Seater / Sleeper (2+1),20:50,02:25,05h 35m,INR 400,13 Seats available,"1.7
+29",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Ganesh Travels,A/C Seater / Sleeper (2+1),23:50,05:00,05h 10m,INR 350,11 Seats available,"1.4
+8",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+M R Travels,NON AC Seater / Sleeper 2+1,22:50,05:05,06h 15m,INR 357,16 Seats available,"1.6
+7",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Babu Travels,Non A/C Seater / Sleeper (2+1),22:00,05:05,07h 05m,INR 300,1 Seat available,"2.9
+147",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Navrang Travels,NON A/C Sleeper (2+1),21:50,04:30,06h 40m,INR 450,3 Seats available,"2.6
+139",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+Ganesh Travels,NON A/C Seater/ Sleeper (2+1),23:30,05:00,05h 30m,INR 300,1 Seat available,"2.3
+11",https://www.redbus.in/bus-tickets/kota-rajasthan-to-jaipur,Kota(Rajasthan) to Jaipur (Rajasthan)
+RSRTC - 197958,Express Non AC Seater 2+3,23:00,04:30,05h 30m,INR 263,42 Seats available, ,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Vijay Tour and Travels,A/C Seater / Sleeper (2+1),20:30,01:00,04h 30m,314,34 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+R.K Jakhar Travels,A/C Seater / Sleeper (2+1),21:25,02:30,05h 05m,360,42 Seats available,"3.4
+5",https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,06:08,06h 09m,INR 350,23 Seats available,"3.0
+25",https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Vijay Tour and Travels,A/C Seater / Sleeper (2+1),22:15,03:00,04h 45m,270,33 Seats available,"2.9
+16",https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Amit Travels,A/C Seater / Sleeper (2+1),23:00,04:00,05h 00m,INR 449,18 Seats available,"1.5
+11",https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),19:30,23:50,04h 20m,INR 999,7 Seats available,3.8,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+GK Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:15,23:55,03h 40m,854,40 Seats available,"5.0
+5",https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+Mahadev Travels JOD,Bharat Benz A/C Sleeper (2+1),21:45,02:45,05h 00m,3800,40 Seats available,4.3,https://www.redbus.in/bus-tickets/jaipur-to-pilani,Jaipur (Rajasthan) to Pilani
+RSRTC - 177697,Express Non AC Seater 2+3,20:50,04:50,08h 00m,INR 369,40 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+RSRTC - 190202,Express Non AC Seater 2+3,21:50,05:00,07h 10m,INR 369,42 Seats available,"3.5
+20",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+RSRTC - 195689,Semi Deluxe Non AC Seater 2+2,22:01,04:30,06h 29m,INR 411,4 Seats available,"2.5
+7",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+RSRTC - 197499,Deluxe AC Seater 2+2,23:00,04:30,05h 30m,INR 590,13 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+UPSRTC - BDV0129,Ordinary Non AC Seater 2+3,23:44,07:25,07h 41m,INR 397,52 Seats available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+Rinku Travels,A/C Seater / Sleeper (2+1),21:30,04:55,07h 25m,INR 400,20 Seats available,"4.4
+79",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+Rinku Travels,A/C Seater / Sleeper (2+1),21:15,04:25,07h 10m,INR 400,13 Seats available,"3.7
+81",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04:00,07h 00m,554,2 Seats available,"3.0
+104",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),22:30,04:15,05h 45m,540,14 Seats available,"4.1
+5",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+Shree Baba Travels,A/C Seater / Sleeper (2+1),21:00,04:30,07h 30m,INR 449,31 Seats available,"3.1
+4",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),20:15,03:15,07h 00m,540,20 Seats available,"2.3
+4",https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),21:15,03:00,05h 45m,810,13 Seats available,3.2,https://www.redbus.in/bus-tickets/jaipur-to-aligarh-uttar-pradesh,Jaipur (Rajasthan) to Aligarh (uttar pradesh)
+RSRTC - 194178,Super Luxury Volvo AC Seater Pushback 2+2,21:15,23:00,01h 45m,INR 239,16 Seats available,3.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+RSRTC - 188804,Express Non AC Seater 2+3,22:00,23:45,01h 45m,INR 120,42 Seats available,3.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+RSRTC - 160785,Super Luxury Volvo AC Seater Pushback 2+2,22:15,23:45,01h 30m,INR 239,37 Seats available,3.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+RSRTC - 190951,Express Non AC Seater 2+3,23:25,01:30,02h 05m,INR 120,42 Seats available,3.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Jain travels regd,NON AC Seater/ Sleeper (2+1),23:15,01:15,02h 00m,INR 250,36 Seats available,3.9,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Shrinath® Travel Agency Pvt. Ltd.,A/C Seater / Sleeper (2+1),19:30,22:30,03h 00m,INR 700,40 Seats available,3.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Chanakya Travels Agency,A/C Seater / Sleeper (2+1),19:45,22:30,02h 45m,INR 1100,39 Seats available,3.8,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Shri Charbhuja Travels (A Unit Of Bala Agri..),A/C Seater / Sleeper (2+1),19:48,21:33,01h 45m,INR 1047.62,26 Seats available,3.8,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Rathi Travels Agency,NON A/C Sleeper (2+1),19:49,22:14,26h 25m,INR 891,49 Seats available,3.1,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Mahadev Travels JOD,Bharat Benz A/C Sleeper (2+1),20:00,21:45,01h 45m,3800,40 Seats available,4.3,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Vijay Tour and Travels,A/C Seater / Sleeper (2+1),21:00,23:00,02h 00m,540,38 Seats available,3.5,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Naveen Tour and Travels,NON A/C Sleeper (2+1),21:45,23:55,02h 10m,INR 749,2 Seats available,3.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+MASTER TRAVELS (RANIWAL),A/C Seater / Sleeper (2+2),21:59,23:55,01h 56m,499,12 Seats available,3.2,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Naveen Tour and Travels,A/C Sleeper (2+1),22:10,23:50,01h 40m,INR 899,1 Seat available,3.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Devraj Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:55,23:59,01h 04m,INR 550,38 Seats available,3.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+bhaiya travels,NON A/C Sleeper (2+1),22:55,00:40,01h 45m,INR 1000,4 Seats available,3.3,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Shre Ganesh Travels,A/C Seater / Sleeper (2+1),23:45,02:00,02h 15m,800,38 Seats available,3.2,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Nandu Travels,NON A/C Sleeper (2+1),23:49,02:03,02h 14m,INR 900,18 Seats available,3.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+V k jain travels,A/C Seater / Sleeper (2+1),23:50,02:20,02h 30m,INR 850,38 Seats available,3.0,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+SHEKHAR TRAVELS,A/C Seater / Sleeper (2+1),23:58,01:40,01h 42m,INR 1200,14 Seats available,3.1,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+NS Travels,A/C Sleeper (2+1),00:09,01:30,01h 21m,INR 1200,36 Seats available,3.5,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Dev Darbar Travel Agency,A/C Sleeper (2+1),19:45,22:30,02h 45m,1799,23 Seats available,2.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+IBS Tour and Travels,NON A/C Sleeper (2+1),21:00,23:55,02h 55m,764,6 Seats available,2.5,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+New Kothari Travels,NON A/C Sleeper (2+2),20:00,22:00,02h 00m,INR 1500,20 Seats available,1.8,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Dev Darbar Travel Agency,A/C Sleeper (2+1),20:05,23:00,02h 55m,2610,30 Seats available,2.4,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Rathi Travels Business Class,NON A/C Sleeper (2+2),20:05,22:55,02h 50m,INR 420,20 Seats available,2.9,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,NON A/C Sleeper (2+1),20:45,00:15,03h 30m,1093,30 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,A/C Seater / Sleeper (2+2),20:45,23:10,02h 25m,836,48 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Salasar vaishnav travels,A/C Seater / Sleeper (2+1),20:45,22:55,02h 10m,INR 1100,38 Seats available,2.2,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,AC Sleeper (2+1),21:00,23:40,02h 40m,998,2 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Amit Travels,A/C Seater / Sleeper (2+1),21:15,23:00,01h 45m,INR 499,22 Seats available,1.7,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,A/C Seater / Sleeper (2+1),21:15,23:15,02h 00m,1425,9 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,A/C Seater / Sleeper (2+1),21:30,23:30,02h 00m,1568,34 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Jai Ambey Travels,A/C Seater / Sleeper (2+2),21:30,23:30,02h 00m,INR 499,52 Seats available,2.9,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Om Travels,NON A/C Sleeper (2+1),21:30,23:30,02h 00m,INR 1000,36 Seats available,2.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Jai Ambey Travels,A/C Seater / Sleeper (2+2),22:00,00:00,02h 00m,INR 550,54 Seats available,2.9,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+RR Travels,A/C Seater / Sleeper (2+1),22:35,00:55,02h 20m,INR 500,41 Seats available,2.1,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Deepak Travels,NON A/C Seater/ Sleeper (2+1),23:15,02:00,02h 45m,1093,2 Seats available,1.6,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Thar Bus Service,Bharat Benz A/C Sleeper (2+1),23:30,01:10,01h 40m,INR 799,34 Seats available,New,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Ankit Travels,A/C Seater / Sleeper (2+1),23:40,01:40,02h 00m,INR 999,38 Seats available, ,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Ravina Travels (Regd),A/C Sleeper (2+1),23:45,01:30,01h 45m,629,8 Seats available,2.8,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+Om shree ji travles,NON A/C Sleeper (2+1),23:45,01:15,01h 30m,740,31 Seats available,2.9,https://www.redbus.in/bus-tickets/kishangarh-to-jaipur,Kishangarh to Jaipur (Rajasthan)
+New Deep Travels,Volvo A/C Semi Sleeper (2+2),20:00,23:10,03h 10m,555,23 Seats available,3.7,https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+Milan Travels,A/C Seater / Sleeper (2+1),20:10,23:25,03h 15m,INR 523,21 Seats available,"3.7
+14",https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+AMBIKA TRAVELS AND CARGO,NON AC Seater / Sleeper 2+1,21:05,02:25,05h 20m,INR 600,36 Seats available,3.4,https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+Shree karni Travels,A/C Seater / Sleeper (2+1),22:45,03:55,05h 10m,INR 381,35 Seats available,"4.5
+13",https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+Shree karni Travels,NON A/C Seater/ Sleeper (2+1),23:30,03:40,04h 10m,INR 350,38 Seats available,"3.5
+8",https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+Rathore Travels Madho,A/C Seater / Sleeper (2+1),20:15,00:00,03h 45m,INR 400,38 Seats available,"1.5
+10",https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),23:55,04:30,04h 35m,INR 400,15 Seats available,"2.5
+8",https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+Amar Travels,A/C Seater / Sleeper (2+1),23:30,04:00,04h 30m,INR 429,30 Seats available,2.6,https://www.redbus.in/bus-tickets/sikar-to-bikaner,Sikar to Bikaner
+RSRTC - 189473,NON AC Seater / Sleeper 2+1,21:00,00:30,03h 30m,INR 235,37 Seats available,4.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+RSRTC - 172841,Super Luxury Volvo AC Seater Pushback 2+2,22:01,00:25,02h 24m,INR 339,37 Seats available,4.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+RSRTC - 192299,Super Luxury Volvo AC Seater Pushback 2+2,23:00,01:30,02h 30m,INR 339,37 Seats available,4.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+RSRTC - 189583,NON AC Seater / Sleeper 2+1,23:59,02:40,02h 41m,INR 235,37 Seats available,4.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater/ Sleeper (2+1),19:35,22:21,02h 46m,INR 270,35 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,19:40,22:55,03h 15m,INR 270,41 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,NON A/C Seater/ Sleeper (2+1),20:25,23:55,03h 30m,INR 459,6 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,21:00,00:30,03h 30m,INR 270,42 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,21:30,00:57,03h 27m,INR 270,42 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+V k jain travels,NON A/C Seater/ Sleeper (2+1),21:31,00:16,02h 45m,INR 300,19 Seats available,3.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jakhar Travels And Cargo,Non A/C Seater / Sleeper (2+1),21:45,03:15,05h 30m,INR 400,31 Seats available,3.4,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+FlixBus,VE A/C Sleeper (2+1),22:00,01:30,03h 30m,INR 119.64,8 Seats available,4.1,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+B R Travels,A/C Seater / Sleeper (2+1),22:00,01:03,03h 03m,INR 500,7 Seats available,4.1,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:00,02:00,04h 00m,INR 400,48 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Pooja Paraswnath Travels,A/C Seater / Sleeper (2+1),22:00,02:30,04h 30m,INR 500,32 Seats available,3.7,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,NON A/C Seater/ Sleeper (2+1),22:00,01:20,03h 20m,INR 408,4 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,NON A/C Seater/ Sleeper (2+1),22:00,01:20,03h 20m,INR 459,5 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jakhar Travels,NON A/C Seater/ Sleeper (2+1),22:00,01:15,03h 15m,INR 400,38 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Tiger Travels,NON AC Seater / Sleeper 2+1,22:00,01:15,03h 15m,INR 400,36 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:15,02:35,04h 20m,INR 270,41 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+CHANDRA RAJ TRAVELS,A/C Seater/Sleeper (2+1),22:15,00:50,02h 35m,INR 370,28 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Swagat Travels,A/C Seater / Sleeper (2+1),22:42,01:20,02h 38m,463,33 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Shre Ganesh Travels,A/C Seater / Sleeper (2+1),22:45,02:15,03h 30m,500,16 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),23:00,02:30,03h 30m,INR 410,18 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Tiger Travels,A/C Seater / Sleeper (2+1),23:15,02:15,03h 00m,INR 500,40 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Bhagwati Travels and Tours,A/C Seater/Sleeper (2+1),23:30,03:00,03h 30m,INR 500,6 Seats available,3.1,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+RR Travels,A/C Seater / Sleeper (2+1),19:40,00:35,04h 55m,INR 350,41 Seats available,2.1,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jai Shankar Travels,Non A/C Seater / Sleeper (2+1),20:00,00:30,04h 30m,INR 450,28 Seats available,1.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Salasar vaishnav travels,Non A/C Seater / Sleeper (2+1),21:05,01:15,04h 10m,INR 450,40 Seats available,2.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Om Travels,NON AC Seater / Sleeper 2+1,21:15,01:10,03h 55m,INR 450,20 Seats available,2.6,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,22:00,00:30,02h 30m,INR 400,37 Seats available,2.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Laxmi traveller,A/C Seater / Sleeper (2+1),22:00,01:30,03h 30m,INR 500,33 Seats available,2.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),19:30,22:55,03h 25m,INR 611,11 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Shre Ganesh Travels,A/C Seater / Sleeper (2+1),19:30,22:30,03h 00m,600,38 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+bhaiya travels,A/C Sleeper (2+1),19:30,23:15,03h 45m,INR 2380.95,30 Seats available,3.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,A/C Sleeper (2+1),19:30,23:30,04h 00m,INR 714,7 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Bluecity Bus,Bharat Benz A/C Sleeper (2+1),19:45,22:15,02h 30m,INR 680,14 Seats available,4.3,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,AC Sleeper (2+1),20:00,23:00,03h 00m,INR 530,13 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Pooja Paraswnath Travels,NON A/C Sleeper (2+1),20:00,23:30,03h 30m,INR 900,30 Seats available,3.7,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+SHRI VISHWAKARMA TRAVELS (KETU),NON A/C Sleeper (2+1),20:30,01:15,04h 45m,INR 600,34 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Chanakya Travels Agency,NON A/C Seater/ Sleeper (2+1),20:30,23:50,03h 20m,INR 1000,2 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Gorsiya Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:16,01:16,04h 00m,555,28 Seats available,3.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,NON A/C Seater/ Sleeper (2+1),21:30,00:50,03h 20m,INR 650,40 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Chanakya Travels Agency,A/C Sleeper (2+1),21:30,00:40,03h 10m,INR 1200,1 Seat available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Gajraj Travels,A/C Sleeper (2+1),22:00,01:30,03h 30m,INR 700,12 Seats available,4.5,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,A/C Seater / Sleeper (2+1),22:00,01:10,03h 10m,INR 510,6 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,AC Sleeper (2+1),22:00,01:40,03h 40m,INR 530,19 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Gajraj Travels,A/C Sleeper (2+1),22:00,02:08,04h 08m,INR 650,8 Seats available,4.5,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,A/C Sleeper (2+1),22:00,00:55,02h 55m,INR 714,21 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Chouhan Tour and Travel,A/C Seater / Sleeper (2+2),22:26,02:06,03h 40m,INR 700,30 Seats available,3.4,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jain travels regd,AC Sleeper (2+1),22:30,01:40,03h 10m,INR 650,12 Seats available,3.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+M R Travels,A/C Seater / Sleeper (2+1),22:45,01:45,03h 00m,INR 510,11 Seats available,3.8,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Gorsiya Travels,A/C Seater / Sleeper (2+1),23:40,02:45,03h 05m,555,38 Seats available,3.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jakhar Travels And Cargo,A/C Sleeper (2+1),23:40,03:30,03h 50m,INR 650,14 Seats available,3.4,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Shree Ganesh Travels,A/C Sleeper (2+1),23:55,03:30,03h 35m,INR 800,19 Seats available,3.5,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Shre Ganesh Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,03:45,03h 46m,700,18 Seats available,3.2,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jai Shankar Travels,NON A/C Sleeper (2+1),20:30,00:15,03h 45m,INR 600,32 Seats available,1.0,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Kalpana Travels Pvt. Ltd.,AC Sleeper (2+1),21:00,23:55,02h 55m,INR 600,32 Seats available,2.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+Jai Bajrang Travels,A/C Seater / Sleeper (2+1),22:00,01:00,03h 00m,INR 550,40 Seats available,2.9,https://www.redbus.in/bus-tickets/jodhpur-to-beawer,Jodhpur to Beawar (Rajasthan)
+RSRTC - 189622,Express Non AC Seater 2+3,22:00,02:25,04h 25m,INR 212,42 Seats available,4.2,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Jain travels regd,A/C Seater / Sleeper (2+1),21:30,02:55,05h 25m,INR 460,40 Seats available,3.7,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Ravi Travels,Non A/C Seater / Sleeper (2+1),21:30,03:15,05h 45m,INR 400,19 Seats available,3.1,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Kalpana Travels,NON AC Seater / Sleeper 2+1,22:00,02:34,04h 34m,INR 300,23 Seats available,3.5,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:00,02:40,04h 40m,INR 300,37 Seats available,"3.5
+5",https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),22:00,02:45,04h 45m,INR 457,11 Seats available,3.9,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,22:15,02:45,04h 30m,INR 360,42 Seats available,3.7,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Gajraj Travels,A/C Sleeper (2+1),22:30,03:30,05h 00m,INR 550,18 Seats available,4.5,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Raj Travel,A/C Sleeper (2+1),22:30,04:30,06h 00m,INR 550,15 Seats available,4.0,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Chandra Travels (Apex Chandra Pvt Ltd),NON AC Seater / Sleeper 2+1,22:30,03:00,04h 30m,INR 350,17 Seats available,3.4,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Raj travels,A/C Sleeper (2+1),22:30,04:30,06h 00m,INR 789,36 Seats available,4.5,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Lake City Travels,NON AC Seater / Sleeper 2+1,22:45,03:30,04h 45m,INR 350,24 Seats available,3.8,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Jain travels regd,NON AC Seater / Sleeper 2+1,23:15,05:07,05h 52m,INR 350,25 Seats available,3.7,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Ashok Travels,Non A/C Seater / Sleeper (2+1),23:15,04:30,05h 15m,675,42 Seats available,3.4,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Ravi Travels,Non A/C Seater / Sleeper (2+1),23:15,05:00,05h 45m,INR 400,28 Seats available,3.1,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+M R Travels,NON A/C Seater/ Sleeper (2+1),23:30,04:00,04h 30m,INR 360,18 Seats available,"3.1
+3",https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Rishabh Travels Milan,A/C Seater / Sleeper (2+1),21:00,00:25,03h 25m,INR 650,9 Seats available,"2.3
+5",https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+Shrinath travel agency,AC Sleeper (2+1),22:00,02:00,04h 00m,INR 1000,36 Seats available,2.8,https://www.redbus.in/bus-tickets/udaipur-to-pali-rajasthan,Udaipur to Pali (Rajasthan)
+RSRTC - 194683,Express Non AC Seater 2+3,21:30,03:15,05h 45m,INR 265,41 Seats available,3.4,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+RSRTC - 175208,Express Non AC Seater 2+3,23:00,04:00,05h 00m,INR 265,42 Seats available,"1.0
+6",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Ganesh Travels,A/C Seater / Sleeper (2+1),23:00,05:20,06h 20m,INR 500,16 Seats available,"4.3
+8",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Jakhar Travels,NON A/C Seater/ Sleeper (2+1),21:15,03:00,05h 45m,INR 300,6 Seats available,"4.2
+45",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),22:00,03:30,05h 30m,INR 500,9 Seats available,"4.1
+100",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Ganesh Travels,NON A/C Seater/ Sleeper (2+1),20:30,02:15,05h 45m,INR 350,4 Seats available,"4.3
+12",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Jakhar Travels,A/C Seater / Sleeper (2+1),19:50,23:55,04h 05m,INR 700,1 Seat available,"4.3
+51",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+B R Travels,A/C Sleeper (2+1),21:30,02:10,04h 40m,INR 1300,2 Seats available,4.1,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Laxmi Shatabdi Travels,NON A/C Seater/ Sleeper (2+1),22:30,05:15,06h 45m,INR 250,27 Seats available,"3.2
+106",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Babu Travels,NON A/C Seater/ Sleeper (2+1),22:15,04:45,06h 30m,INR 299,14 Seats available,"3.3
+87",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Vijay Travels Kota,NON AC Seater / Sleeper 2+1,22:30,04:30,06h 00m,INR 300,25 Seats available,"3.3
+17",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Jakhar Travels,NON A/C Seater/ Sleeper (2+1),20:30,02:00,05h 30m,INR 300,15 Seats available,"3.6
+25",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Navrang Sanjay Travels,A/C Seater / Sleeper (2+1),20:00,23:56,03h 56m,INR 900,34 Seats available,3.1,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Verma Travels.,A/C Sleeper (2+1),20:00,23:59,03h 59m,INR 499,3 Seats available,"3.8
+52",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Ansari Travels,NON A/C Sleeper (2+1),21:00,01:51,04h 51m,765,1 Seat available,3.2,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Sethi Yatra Company,NON A/C Seater/ Sleeper (2+1),19:50,23:55,04h 05m,570,1 Seat available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Sethi Yatra Company,Non A/C Seater / Sleeper (2+1),21:50,02:25,04h 35m,618,5 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Gajraj bus service,A/C Sleeper (2+1),22:00,03:30,05h 30m,INR 1300,1 Seat available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Gagan Sarkar Upkar Travels,NON A/C Sleeper (2+1),22:15,02:15,04h 00m,INR 1000,1 Seat available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),20:45,00:50,04h 05m,INR 500,5 Seats available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Navrang Travels,A/C Seater / Sleeper (2+1),23:00,05:00,06h 00m,INR 300,24 Seats available,"2.9
+137",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,22:55,03:55,05h 00m,INR 600,18 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Navrang Sanjay Travels,NON AC Seater / Sleeper 2+1,23:00,05:00,06h 00m,INR 300,34 Seats available,"2.5
+7",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Geetanjali Travels,NON AC Seater / Sleeper 2+1,23:00,04:30,05h 30m,INR 280,32 Seats available,"1.8
+4",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Rathore Travels Madho,A/C Seater / Sleeper (2+1),22:50,04:00,05h 10m,INR 700,35 Seats available,1.0,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Shree Balaji travels SBG,A/C Sleeper (2+1),21:15,02:15,05h 00m,1899,32 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+A One Travel Agency,Non A/C Seater / Sleeper (2+1),21:00,02:30,05h 30m,INR 350,16 Seats available,1.7,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Mahadev Travels Pilani,A/C Seater / Sleeper (2+1),23:00,05:25,06h 25m,INR 400,4 Seats available,"2.5
+62",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Ajay Raj Travel Agency,A/C Seater / Sleeper (2+1),21:30,03:30,06h 00m,308,9 Seats available,"1.7
+10",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Intercity Travels Indore,A/C Sleeper (2+1),20:45,00:30,03h 45m,INR 900,10 Seats available,"2.4
+7",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Ganesh Travels,NON A/C Seater/ Sleeper (2+1),22:00,04:00,06h 00m,INR 350,4 Seats available,"1.7
+4",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+DEV HIGH SPEED TRAVELS AND CARGO,A/C Sleeper (2+1),21:18,01:35,04h 17m,879,4 Seats available,"2.2
+6",https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+M R Travels,A/C Volvo B11R Multi-Axle Sleeper (2+1),19:45,23:45,04h 00m,INR 509,7 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Intercity Travels Indore,NON A/C Sleeper (2+1),19:50,23:00,03h 10m,INR 800,3 Seats available,2.4,https://www.redbus.in/bus-tickets/jaipur-to-kota-rajasthan,Jaipur (Rajasthan) to Kota(Rajasthan)
+Jai Shrinath Ji Ki Travels,A/C Sleeper (2+1),21:30,04:55,07h 25m,INR 800,6 Seats available,3.9,https://www.redbus.in/bus-tickets/kota-rajasthan-to-udaipur,Kota(Rajasthan) to Udaipur
+UPSRTC - KSN0275,Ordinary Non AC Seater 2+3,21:20,01:54,04h 34m,INR 226,52 Seats available,3.3,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shree Baba Travels,A/C Seater / Sleeper (2+1),21:00,01:00,04h 00m,INR 499,40 Seats available,1.7,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),19:35,22:30,02h 55m,INR 500,21 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),19:35,22:30,02h 55m,INR 549,36 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),19:45,23:30,03h 45m,INR 600,13 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SKT Radhika Travels,Non A/C Seater / Sleeper (2+1),19:45,23:45,04h 00m,INR 350,9 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+GAYATRI RAO TRAVELS,A/C Seater / Sleeper (2+1),21:50,01:00,03h 10m,450,36 Seats available,New,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),22:15,01:15,03h 00m,449,36 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shri mahavir tour and travels,AC Sleeper (2+1),19:50,23:40,03h 50m,INR 1300,5 Seats available,4.2,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),22:30,02:30,04h 00m,449,27 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+NueGo,Electric A/C Seater (2+2),19:55,23:15,03h 20m,276,8 Seats available,"4.4
+48",https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shatabdi Travels,NON A/C Sleeper (2+1),20:00,00:00,04h 00m,664,32 Seats available,3.0,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Tiwari Travels,A/C Sleeper (2+1),20:00,00:00,04h 00m,INR 4000,25 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Maharani Travels,A/C Seater / Sleeper (2+1),20:15,00:30,04h 15m,INR 801,3 Seats available,3.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Maharani Travels,A/C Seater / Sleeper (2+1),20:15,00:30,04h 15m,INR 1000,38 Seats available,3.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+PTC-SKYBUS,A/C Seater/Sleeper (2+1),20:30,01:00,04h 30m,INR 700,9 Seats available,4.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Sethi Yatra Company,A/C Seater / Sleeper (2+1),20:30,00:20,03h 50m,570,9 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SHREE SHAKTI TRAVELS AND CARGO,Bharat Benz A/C Seater /Sleeper (2+1),20:40,00:10,03h 30m,INR 749,26 Seats available,4.4,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),21:00,01:20,04h 20m,720,33 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+New Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),21:00,00:15,03h 15m,INR 599,34 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,01:00,04h 00m,554,2 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Rinku Travels,A/C Seater / Sleeper (2+1),21:15,01:55,04h 40m,INR 400,48 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Maharani Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,01:30,04h 15m,INR 701,29 Seats available,3.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,01:00,03h 45m,462,17 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:40,01:40,04h 00m,540,44 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02:00,03h 30m,495,40 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),20:15,01:00,04h 45m,540,21 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Rinku Travels,A/C Seater / Sleeper (2+1),21:30,00:50,03h 20m,INR 350,43 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Sethi Yatra Company,A/C Seater / Sleeper (2+1),21:30,01:50,04h 20m,666,12 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),22:30,02:00,03h 30m,540,31 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Dev Express ®,A/C Sleeper (2+1),21:30,01:10,03h 40m,934,24 Seats available,4.1,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+PTC-SKYBUS,A/C Seater / Sleeper (2+1),22:00,02:25,04h 25m,INR 499,26 Seats available,4.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+IBS Tour and Travels,NON A/C Sleeper (2+1),23:55,03:45,03h 50m,809,6 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Garhwal Travels,A/C Seater / Sleeper (2+1),22:10,01:10,03h 00m,665,35 Seats available,3.1,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),22:15,01:20,03h 05m,INR 800,38 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),21:15,00:30,03h 15m,810,34 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Sethi Yatra Company,A/C Sleeper (2+1),22:25,02:45,04h 20m,1139,17 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shree Mahaveer Travels Jaipur,A/C Sleeper (2+1),22:30,02:30,04h 00m,INR 999,34 Seats available,3.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Maharaja Travels,AC Sleeper (2+1),22:55,02:20,03h 25m,INR 761,30 Seats available,3.0,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shri Chirag Travel Agency,A/C Seater / Sleeper (2+1),22:30,02:00,03h 30m,1281,35 Seats available,2.1,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Jain travels regd,NON AC Seater / Sleeper 2+1,23:00,02:45,03h 45m,INR 400,6 Seats available,3.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Vijay Tour and Travels,A/C Seater / Sleeper (2+1),23:00,02:40,03h 40m,585,38 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+NueGo,Electric A/C Seater (2+2),23:30,03:35,04h 05m,630,3 Seats available,"4.6
+12",https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+M R Travels,A/C Seater / Sleeper (2+1),23:55,02:15,02h 20m,INR 715,17 Seats available,3.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,19:41,23:31,03h 50m,INR 400,38 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Rajat Rides Tours and Travels,A/C Sleeper (2+1),20:00,23:55,03h 55m,INR 4000,34 Seats available,2.0,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shri Amar Shakti Travels,NON A/C Sleeper (2+1),20:00,01:30,05h 30m,1080,30 Seats available,1.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+First Choice Holidays,A/C Seater / Sleeper (2+1),20:30,00:30,04h 00m,INR 499,16 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shri Chirag Travel Agency,NON A/C Sleeper (2+1),22:15,01:45,03h 30m,990,30 Seats available,2.1,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Jain Shiv Shankar Travels,A/C Sleeper (2+1),20:50,01:20,04h 30m,INR 2999,36 Seats available,2.3,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shree Mahaveer Travels,A/C Seater / Sleeper (2+1),21:00,00:30,03h 30m,INR 500,30 Seats available,2.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Mansoori tour and travels,NON A/C Sleeper (2+1),21:00,01:00,04h 00m,570,48 Seats available,2.0,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Dev Darbar Travel Agency,A/C Sleeper (2+1),22:30,01:30,03h 00m,1799,23 Seats available,2.4,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+RR Travels,A/C Seater / Sleeper (2+1),21:25,01:00,03h 35m,INR 400,42 Seats available,2.1,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shree Mahaveer Travels,AC Sleeper (2+1),21:25,01:55,04h 30m,INR 899,14 Seats available,2.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shatabdi Travels,AC Sleeper (2+1),21:31,00:16,02h 45m,INR 952,1 Seat available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Kalpana Travels Pvt. Ltd.,NON AC Seater / Sleeper 2+1,21:31,00:46,03h 15m,INR 400,38 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Rohit Raj Travels,A/C Sleeper (2+1),22:05,01:25,03h 20m,1234,30 Seats available,1.8,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Kalpana Travels Pvt. Ltd.,AC Sleeper (2+1),22:15,01:45,03h 30m,INR 700,25 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Shivansh travels,NON A/C Sleeper (2+2),23:00,03:00,04h 00m,INR 1899,24 Seats available,1.7,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Dev Darbar Travel Agency,A/C Sleeper (2+1),23:00,04:00,05h 00m,2610,30 Seats available,2.4,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Supreme Zamindara Travels,NON AC Seater / Sleeper 2+1,23:15,01:15,02h 00m,INR 850,38 Seats available,2.3,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Om shree ji travles,NON A/C Seater/ Sleeper (2+1),23:15,04:00,04h 45m,555,30 Seats available,2.9,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+SHREE MARUTIKRUPA TRAVELS AND CARGO,NON A/C Sleeper (2+1),23:15,03:15,04h 00m,INR 1000,24 Seats available,2.4,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Neelam Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:15,04:00,04h 45m,INR 400,7 Seats available,1.0,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Amar Travels(Jaipur),NON AC Seater / Sleeper 2+1,23:30,02:45,03h 15m,760,38 Seats available,2.2,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+Deepak Travels,AC Sleeper (2+1),23:40,02:45,03h 05m,903,1 Seat available,1.6,https://www.redbus.in/bus-tickets/jaipur-to-bharatpur,Jaipur (Rajasthan) to Bharatpur
+RSRTC - 177697,Express Non AC Seater 2+3,20:50,02:30,05h 40m,INR 269,42 Seats available,3.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+RSRTC - 183063,Express Non AC Seater 2+3,22:20,03:20,05h 00m,INR 270,41 Seats available,"3.8
+11",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+RSRTC - 190180,Express Non AC Seater 2+3,22:50,03:30,04h 40m,INR 268,38 Seats available,"2.7
+11",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,02:30,05h 30m,INR 599,2 Seats available,"3.5
+33",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Rinku Travels,A/C Seater / Sleeper (2+1),21:15,02:55,05h 40m,INR 400,11 Seats available,"3.1
+11",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Rinku Travels,NON AC Seater / Sleeper 2+1,20:00,01:50,05h 50m,INR 300,14 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+SHAGUN CARGO & TRAVELS,NON A/C Seater/ Sleeper (2+1),20:15,02:00,05h 45m,540,21 Seats available,"1.6
+5",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Mansoori tour and travels,NON A/C Sleeper (2+1),21:00,01:45,04h 45m,570,33 Seats available,2.0,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Rinku Travels,NON AC Seater / Sleeper 2+1,21:00,03:30,06h 30m,INR 500,19 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),22:30,03:10,04h 40m,540,19 Seats available,1.8,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Shree Baba Travels,A/C Seater / Sleeper (2+1),21:00,03:30,06h 30m,INR 449,28 Seats available,1.7,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+janta shatabdi travels,Non A/C Seater / Sleeper (2+1),21:15,01:59,04h 44m,INR 500,47 Seats available,1.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+janta shatabdi travels,Non A/C Seater / Sleeper (2+1),21:15,01:59,04h 44m,INR 500,40 Seats available,1.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Rinku Travels,A/C Seater / Sleeper (2+1),21:30,01:50,04h 20m,INR 400,14 Seats available,"2.6
+8",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),22:15,03:15,05h 00m,809,12 Seats available,2.6,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Rinku Travels,NON AC Seater / Sleeper 2+1,21:30,01:46,04h 16m,INR 300,6 Seats available,2.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+janta shatabdi travels,A/C Sleeper (2+1),22:15,02:10,03h 55m,INR 680,30 Seats available,1.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+SHAGUN CARGO & TRAVELS,A/C Sleeper (2+1),21:15,01:30,04h 15m,810,34 Seats available,1.8,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+janta shatabdi travels,Non A/C Seater / Sleeper (2+1),22:45,03:30,04h 45m,INR 700,40 Seats available,1.5,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Bhagwati Travel Agency,A/C Seater / Sleeper (2+1),22:30,04:45,06h 15m,809,10 Seats available,"2.6
+14",https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Mansoori tour and travels,NON A/C Sleeper (2+1),20:00,01:10,05h 10m,1140,19 Seats available,2.0,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+Dev Darbar Travel Agency,A/C Sleeper (2+1),23:00,05:00,06h 00m,2610,30 Seats available,2.4,https://www.redbus.in/bus-tickets/jaipur-to-mathura,Jaipur (Rajasthan) to Mathura
+RSRTC - 182762,Express Non AC Seater 2+3,21:55,02:45,04h 50m,INR 231,42 Seats available,4.6,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Milan Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:35,22:30,02h 55m,INR 476,21 Seats available,"4.2
+15",https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Maharaja Travels,A/C Seater / Sleeper (2+1),19:42,23:20,03h 38m,INR 333,15 Seats available,3.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Royal Travels,NON A/C Seater/ Sleeper (2+1),20:00,00:30,04h 30m,INR 400,28 Seats available,3.0,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Milan Travels,A/C Seater / Sleeper (2+1),22:30,02:30,04h 00m,INR 476,23 Seats available,4.2,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Maharaja Travels,A/C Seater / Sleeper (2+1),22:30,02:30,04h 00m,INR 333,26 Seats available,3.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+RATHORE TRAVELS AGENCY,A/C Seater / Sleeper (2+1),22:30,02:59,04h 29m,INR 350,34 Seats available,4.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Maharaja Travels,NON AC Seater / Sleeper 2+1,22:45,02:35,03h 50m,INR 350,37 Seats available,3.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Milan Travels,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:00,03:00,04h 00m,INR 714,14 Seats available,4.2,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+RATHORE TRAVELS AGENCY,Volvo 9600 A/C Sleeper (2+1),23:00,03:05,04h 05m,INR 714,36 Seats available,4.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Suman Supreme Travels,A/C Seater / Sleeper (2+1),23:00,03:25,04h 25m,INR 350,36 Seats available,3.5,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Milan Travels,A/C Sleeper (2+1),23:15,03:15,04h 00m,INR 476,10 Seats available,4.2,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Maharaja Travels,A/C Seater / Sleeper (2+1),23:15,03:25,04h 10m,INR 333,40 Seats available,3.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Maharaja Travels,A/C Seater / Sleeper (2+1),23:50,04:00,04h 10m,INR 333,19 Seats available,3.4,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Rathore Travels Madho,A/C Seater / Sleeper (2+1),21:30,01:30,04h 00m,INR 400,40 Seats available,2.3,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Amar Travels(Jaipur),AC Sleeper (2+1),22:00,02:45,04h 45m,475,34 Seats available,2.2,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Sharma travels,NON AC Seater / Sleeper 2+1,22:30,03:00,04h 30m,INR 350,34 Seats available,1.7,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+Amar Travels(Jaipur),A/C Seater / Sleeper (2+1),22:45,03:30,04h 45m,380,31 Seats available,2.2,https://www.redbus.in/bus-tickets/bikaner-to-sikar,Bikaner to Sikar
+RSRTC - 191334,Express Non AC Seater 2+3,22:00,03:00,05h 00m,INR 212,42 Seats available,3.7,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Gajraj Travels,NON A/C Seater/ Sleeper (2+1),20:45,01:15,04h 30m,INR 400,3 Seats available,4.5,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jain travels regd,NON AC Seater / Sleeper 2+1,21:00,01:44,04h 44m,INR 360,35 Seats available,3.9,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Ashok Travels,Non A/C Seater / Sleeper (2+1),21:30,02:30,05h 00m,360,42 Seats available,3.4,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Gajraj Travels,Non A/C Seater / Sleeper (2+1),21:30,02:00,04h 30m,INR 400,13 Seats available,4.5,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Gajraj Travels,NON A/C Seater/ Sleeper (2+1),22:30,03:50,05h 20m,INR 360,10 Seats available,4.5,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jain travels regd,NON AC Seater / Sleeper 2+1,23:00,04:35,05h 35m,INR 500,5 Seats available,3.9,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Tiger Travels,A/C Seater / Sleeper (2+1),23:10,04:00,04h 50m,INR 650,28 Seats available,4.3,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jain travels regd,NON AC Seater / Sleeper 2+1,23:30,04:20,04h 50m,INR 360,4 Seats available,3.9,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Gajraj Travels,Non A/C Seater / Sleeper (2+1),23:34,04:50,05h 16m,INR 360,11 Seats available,4.5,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jain travels regd,A/C Seater / Sleeper (2+1),23:35,04:15,04h 40m,INR 460,13 Seats available,"3.5
+5",https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Raj Travel (Laxmi Traveller),A/C Sleeper (2+1),23:43,04:43,05h 00m,INR 610,17 Seats available,4.0,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Gajraj Travels,A/C Sleeper (2+1),23:44,05:15,05h 31m,INR 600,15 Seats available,4.5,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jakhar Travels,A/C Seater / Sleeper (2+1),23:45,04:30,04h 45m,INR 401,11 Seats available,3.9,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+CHANDRA RAJ TRAVELS,A/C Seater / Sleeper (2+1),23:45,04:45,05h 00m,INR 460,25 Seats available,4.2,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Jai Bajrang Travels,A/C Seater / Sleeper (2+1),23:45,04:00,04h 15m,INR 400,30 Seats available,2.9,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+M R Travels,NON A/C Seater/ Sleeper (2+1),21:45,02:30,04h 45m,INR 1045,40 Seats available,4.6,https://www.redbus.in/bus-tickets/pali-to-udaipur,Pali (Rajasthan) to Udaipur
+Lake City Travels,NON A/C Sleeper (2+2),22:25,07:29,09h 04m,INR 500,26 Seats available,4.4,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Raj travels,A/C Sleeper (2+1),22:00,06:30,08h 30m,INR 499,15 Seats available,"4.6
+10",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Lake City Travels,AC Sleeper (2+1),22:15,07:05,08h 50m,INR 749,4 Seats available,"4.7
+419",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+METRO RAJLAXMI TRAVELS,A/C Sleeper (2+1),22:02,06:42,08h 40m,INR 523.81,4 Seats available,"4.1
+185",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Raj travels,A/C Sleeper (2+1),22:15,06:30,08h 15m,INR 569,5 Seats available,"4.7
+442",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+B.R. Travels,A/C Seater / Sleeper (2+1),23:55,06:30,06h 35m,INR 952,5 Seats available,4.3,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Anita Maya Travels,A/C Seater / Sleeper (2+1),21:45,05:30,07h 45m,428,5 Seats available,"4.4
+51",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Lake City Travels,A/C Sleeper (2+1),22:20,06:45,08h 25m,INR 952.38,3 Seats available,4.4,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Pooja Yaduvanshi Travels,A/C Seater / Sleeper (2+1),21:15,05:30,08h 15m,INR 549,2 Seats available,"4.3
+50",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Gajraj Travels,A/C Sleeper (2+1),19:35,02:45,07h 10m,INR 1300,1 Seat available,4.5,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Jain Parshwanath Travels,NON A/C Sleeper (2+1),22:30,06:10,07h 40m,INR 399,18 Seats available,"3.5
+5",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Paras Travels,A/C Seater / Sleeper (2+1),22:05,06:25,08h 20m,343,3 Seats available,"3.7
+292",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Shree Savariya Travels & Transport,A/C Seater/Sleeper (2+1),23:15,07:45,08h 30m,INR 800,20 Seats available,3.3,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Rajlaxmi Travels(UDR),Volvo Multi-Axle A/C Sleeper (2+1),22:32,06:43,08h 11m,INR 698.1,22 Seats available,"3.3
+5",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Parshwanath Travel Pvt. Ltd,A/C Sleeper (2+1),23:50,08:00,08h 10m,542,11 Seats available,"3.6
+48",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Gujarat Travels,Bharath Benz A/C Sleeper (2+2),22:30,06:55,08h 25m,INR 1100,5 Seats available,3.3,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Lake City Travels,NON A/C Sleeper (2+1),20:30,05:50,09h 20m,INR 550,4 Seats available,"3.7
+10",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Natraj Travels,A/C Seater / Sleeper (2+1),19:45,04:15,08h 30m,INR 450,4 Seats available,3.7,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Shrinath Solitaire,Bharat Benz A/C Sleeper (2+1),19:40,03:00,07h 20m,INR 1500,2 Seats available,"3.3
+17",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+VIKAS TRAVELS ®,VE A/C Sleeper (2+1),19:35,02:20,06h 45m,INR 1200,3 Seats available,3.7,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Kamlesh Travels,A/C Sleeper (2+1),22:20,05:40,07h 20m,INR 1000,28 Seats available,3.5,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Shrinath® Travel Agency Pvt. Ltd.,Volvo Multi Axle B9R A/C Sleeper (2+1),22:45,05:30,06h 45m,INR 714,4 Seats available,"2.5
+14",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Rishabh Travels Ajay Raj,Bharat Benz A/C Seater /Sleeper (2+1),21:55,05:05,07h 10m,463,11 Seats available,"2.2
+21",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Chandra Travel Singhana,A/C Seater / Sleeper (2+1),19:35,05:00,09h 25m,450,26 Seats available,"2.8
+10",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Kalpana Travels Pvt. Ltd.,A/C Seater / Sleeper (2+1),22:15,06:15,08h 00m,INR 400,8 Seats available,"2.4
+29",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+PAL BUS(Patel Travels®),NON AC Seater / Sleeper 2+1,22:00,07:05,09h 05m,416,11 Seats available,"1.8
+10",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),19:40,04:30,08h 50m,INR 699,10 Seats available,2.2,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Mahaveer Travels Agency,NON AC Seater / Sleeper 2+1,22:05,05:15,07h 10m,INR 500,23 Seats available,1.7,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+SHREE KAMBESHWAR TRAVELS,NON A/C Sleeper (2+1),20:05,04:35,08h 30m,INR 699,1 Seat available,"1.0
+3",https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Raj travels Jhunjhunu,A/C Seater / Sleeper (2+1),19:35,02:55,07h 20m,570,15 Seats available,2.4,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
+Vinayak Travel Agency,A/C Sleeper (2+1),19:35,05:30,09h 55m,1029,36 Seats available, ,https://www.redbus.in/bus-tickets/udaipur-to-jaipur,Udaipur to Jaipur (Rajasthan)
