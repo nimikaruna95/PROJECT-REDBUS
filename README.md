@@ -52,14 +52,19 @@ a. Selenium Data Extraction from RedBus: Utilize Selenium to automate the extrac
 Step 1: Import necessary libraries
 
 from selenium import webdriver
+
 from selenium.webdriver.common.by import By
+
 import time
+
 import mysql.connector
 
 Step 2: Initialize the WebDriver and navigate to the RedBus website
 
 driver = webdriver.Chrome(executable_path='/path/to/chromedriver')  # Replace with the correct path to your WebDriver
+
 driver.get("https://www.redbus.in/")
+
 time.sleep(5)  # Wait for the page to load
 
 Step 3: Extract data (e.g., bus operators, departure times, prices, etc.)
