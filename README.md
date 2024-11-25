@@ -73,8 +73,7 @@ operator_names = [operator.text for operator in bus_operators]
 prices = driver.find_elements((By.XPATH, '//*[@class="fare d-block")]')
 
 for price_elem in price:    
-   
-   Price.append(price_elem.text) #if you want,you can extend this to extract additional details like bus timings, seat availability, etc.
+   Price.append(price_elem.text) #if you want,you can add additional details like bus timings, seat availability, etc.
 
 Step 4: Close the browser
 
@@ -84,20 +83,14 @@ driver.quit()
 
 Step 1: Set up your MySQL database (Create a new database)
 
+# MySQL database
 import mysql.connector
-
 connection = mysql.connector.connect(
-    
-     host="localhost", # Your MySQL server host
-    
-     user="root",      # Your MySQL username
-     
-     password="password")   # Your MySQL password
-
+    host="localhost", # Your MySQL server host
+    user="root",      # Your MySQL username 
+    password="password")   # Your MySQL password
 cursor = connection.cursor()
-
 cursor.execute("create database redbus_data")
-
 print("Database created")
 
 Step 2: Set up a table in the MySQL database 
