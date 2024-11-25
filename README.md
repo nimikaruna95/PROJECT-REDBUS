@@ -91,12 +91,19 @@ Step 1: Set up your MySQL database (Create a new database)
 
 # MySQL database
 import mysql.connector
+
 connection = mysql.connector.connect(
-    host="localhost", # Your MySQL server host
-    user="root",      # Your MySQL username 
-    password="password")   # Your MySQL password
+     
+      host="localhost", # Your MySQL server host
+      
+      user="root",      # Your MySQL username 
+      
+      password="password")   # Your MySQL password
+
 cursor = connection.cursor()
+
 cursor.execute("create database redbus_data")
+
 print("Database created")
 
 Step 2: Set up a table in the MySQL database 
@@ -105,49 +112,46 @@ import mysql.connector
 
 connection = mysql.connector.connect(
  
- host="localhost",   # Your MySQL server host
+    host="localhost",   # Your MySQL server host
  
- user="root",        # Your MySQL username
+    user="root",        # Your MySQL username
 
- password="password", # Your MySQL password
+    password="password", # Your MySQL password
  
- database="redbus_data") # Your MySQL database
+    database="redbus_data") # Your MySQL database
 
 cursor = connection.cursor()
 
-CREATE TABLE Table_name (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    operator_name VARCHAR(255),
-    price DECIMAL(10, 2));
+CREATE TABLE Table_name (id INT AUTO_INCREMENT PRIMARY KEY,operator_name VARCHAR(255),price DECIMAL(10, 2));
 
 print("Table Created successfully")
 
 Step 3: Insert the scraped data into the database
 
-insert_query = ('''INSERT INTO 
-
-   busdetails(Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_Available,Star_rating,Route_links,Route_names)VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''')
+insert_query = ('''INSERT INTO busdetails(Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_Available,Star_rating,Route_links,Route_names)VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''')
 
 data =Final_df.values.tolist() # here Final_df is the cleaned data from scraped data and the cleaned data is converted to a list of lists
 
 try:
    
-    cursor.executemany(insert_query, data) # used to insert multiple rows at once
+      cursor.executemany(insert_query, data) # used to insert multiple rows at once
     
-    connection.commit()
+      connection.commit()
     
-    print("Values inserted successfully")
+      print("Values inserted successfully")
 
 except Exception as e:
     
-    print(f"Error: {e}")
+      print(f"Error: {e}")
 
 4. Build a Streamlit Application to Join SQL Data and Display
 
 Step 1: Import Streamlit and MySQL libraries
 
 import streamlit as st
+
 import mysql.connector
+
 import pandas as pd
 
 Step 2: Connect to MySQL and fetch data
@@ -155,19 +159,23 @@ Step 2: Connect to MySQL and fetch data
 # function to create a connection with MySQL database
 def fetch_data_from_db():
     
-    db_connection = mysql.connector.connect(
-        host="localhost",      
-        user="root",
-        password="password",
-        database="redbus_data")
+      db_connection = mysql.connector.connect(
+         
+          host="localhost",      
+        
+          user="root",
+       
+          password="password",
+        
+          database="redbus_data")
     
-    query = "SELECT * FROM bus_data"
+query = "SELECT * FROM bus_data"
     
-    df = pd.read_sql(query, db_connection)
+df = pd.read_sql(query, db_connection)
     
-    db_connection.close()
+db_connection.close()
     
-    return df
+return df
 
 Step 3: Create a Streamlit app
 
