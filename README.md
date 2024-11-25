@@ -82,17 +82,14 @@ driver.quit()
 
 Step 1: Set up your MySQL database (Create a new database)
 
+# SQL Database Creation
 import mysql.connector
-
 connection = mysql.connector.connect(
      host="localhost", # Your MySQL server host
      user="root",      # Your MySQL username
      password="password")   # Your MySQL password
-
 cursor = connection.cursor()
-
 cursor.execute("create database redbus_data")
-
 print("Database created")
 
 Step 2: Set up a table in the MySQL database 
