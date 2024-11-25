@@ -21,7 +21,7 @@ This project aims to provide a sturdy solution for collecting, analyzing, and vi
 
 Prerequisites:
 
-Before running the project,make sute that you have the following installed before starting:
+Before running the project,make sure that you have the following installed before starting:
 - Python
 - Jupyter Notebook/vscode
 - Selenium
