@@ -66,12 +66,14 @@ Step 3: Extract data (e.g., bus operators, departure times, prices, etc.)
 
 # Example: Extracting bus operators' names
 bus_operators = driver.find_elements(By.XPATH, "//div[@class='button']")
+
 operator_names = [operator.text for operator in bus_operators]
 
 # Example: Extracting bus prices
 prices = driver.find_elements((By.XPATH, '//*[@class="fare d-block")]')
 
 for price_elem in price:    
+   
    Price.append(price_elem.text) #if you want,you can extend this to extract additional details like bus timings, seat availability, etc.
 
 Step 4: Close the browser
@@ -82,14 +84,20 @@ driver.quit()
 
 Step 1: Set up your MySQL database (Create a new database)
 
-# SQL Database Creation
 import mysql.connector
+
 connection = mysql.connector.connect(
+    
      host="localhost", # Your MySQL server host
+    
      user="root",      # Your MySQL username
+     
      password="password")   # Your MySQL password
+
 cursor = connection.cursor()
+
 cursor.execute("create database redbus_data")
+
 print("Database created")
 
 Step 2: Set up a table in the MySQL database 
@@ -97,10 +105,14 @@ Step 2: Set up a table in the MySQL database
 import mysql.connector
 
 connection = mysql.connector.connect(
-host="localhost",   # Your MySQL server host
-user="root",        # Your MySQL username
-password="password", # Your MySQL password
-database="redbus_data") # Your MySQL database
+ 
+ host="localhost",   # Your MySQL server host
+ 
+ user="root",        # Your MySQL username
+
+ password="password", # Your MySQL password
+ 
+ database="redbus_data") # Your MySQL database
 
 cursor = connection.cursor()
 
@@ -115,16 +127,20 @@ Step 3: Insert the scraped data into the database
 
 insert_query = ('''INSERT INTO 
 
-busdetails(Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_Available,Star_rating,Route_links,Route_names)VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''')
+   busdetails(Busname,Bustype,Departing_time,Reaching_time,Duration,Price,Seats_Available,Star_rating,Route_links,Route_names)VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''')
 
 data =Final_df.values.tolist() # here Final_df is the cleaned data from scraped data and the cleaned data is converted to a list of lists
 
 try:
+   
     cursor.executemany(insert_query, data) # used to insert multiple rows at once
+    
     connection.commit()
+    
     print("Values inserted successfully")
 
 except Exception as e:
+    
     print(f"Error: {e}")
 
 4. Build a Streamlit Application to Join SQL Data and Display
@@ -141,7 +157,7 @@ Step 2: Connect to MySQL and fetch data
 def fetch_data_from_db():
     
     db_connection = mysql.connector.connect(
-        host="localhost",
+        host="localhost",      
         user="root",
         password="password",
         database="redbus_data")
@@ -170,9 +186,11 @@ def display_data():
 
     # Add additional Streamlit components as if needed
     st.bar_chart(df['price'])
+    
     st.map(df[['latitude', 'longitude']])
 
 if _name_ == "_main_": # common Python construct that ensures that the code within the app() function is executed 
+    
     display_data()   # displays the data
 
 Step 4: Run your Streamlit application
