@@ -40,6 +40,7 @@ Problem Statement:
 The "Redbus Data Scraping and Filtering with Streamlit Application" project focuses on automating the extraction and analysis of bus travel data from the Redbus platform which helps to seeks the revolution for the transportation industry by offering a comprehensive solution for collecting, analyzing, and visualizing bus travel data. Using Selenium for web scraping, the project collects key details such as bus routes, schedules, pricing, and seat availability.By automating data collection, it enhances operational efficiency and supports strategic planning for bus operators and travelers.
 
 Approach:
+
 1.Install Python Libraries:You can install the required Python libraries using pip:
            
 pip install selenium mysql-connector-python streamlit
