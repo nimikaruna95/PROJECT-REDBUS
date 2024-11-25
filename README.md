@@ -156,7 +156,7 @@ import pandas as pd
 
 Step 2: Connect to MySQL and fetch data
 
-# function to create a connection with MySQL database
+# Function to create a connection with MySQL database
 def fetch_data_from_db():
     
       db_connection = mysql.connector.connect(
