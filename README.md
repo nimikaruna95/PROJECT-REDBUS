@@ -100,10 +100,10 @@ Step 2: Set up a table in the MySQL database
 import mysql.connector
 
 connection = mysql.connector.connect(
-   host="localhost",   # Your MySQL server host
-   user="root",        # Your MySQL username
-   password="password", # Your MySQL password
-   database="redbus_data") # Your MySQL database
+host="localhost",   # Your MySQL server host
+user="root",        # Your MySQL username
+password="password", # Your MySQL password
+database="redbus_data") # Your MySQL database
 
 cursor = connection.cursor()
 
