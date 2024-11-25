@@ -78,7 +78,7 @@ operator_names = [operator.text for operator in bus_operators]
 prices = driver.find_elements((By.XPATH, '//*[@class="fare d-block")]')
 
 for price_elem in price:    
-Price.append(price_elem.text) #if you want,you can add additional details like bus timings, seat availability, etc.
+                          Price.append(price_elem.text) #if you want,you can add additional details like bus timings, seat availability, etc.
 
 Step 4: Close the browser
 
